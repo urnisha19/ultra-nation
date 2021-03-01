@@ -1,0 +1,18 @@
+.single-country{
+    border: 1px solid lightgrey;
+    border-radius:5px;
+    text-align:center;
+    margin: 40px 80px 40px 80px;
+    padding: 10px;
+}
+.single-country img{
+    height:50px;
+}
+.add-country-btn{
+    background-color:black;
+    color:white;
+    font-weight: 500px;
+    border-radius: 5px;
+    cursor: pointer;
+   padding: 8px;
+}
